@@ -1,0 +1,22 @@
+{
+  "info": {
+    "name": "OnlineFoodPlaza API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Auth - Get Token",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{ \"username\":\"admin\", \"password\":\"pass\" }"
+        },
+        "url": {
+          "raw": "{{base_url}}/api/v1/auth/token/"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Place your products.xlsx Excel file here. Example columns: name, amount
