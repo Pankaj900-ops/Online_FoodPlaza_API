@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # OnlineFoodPlaza - Backend (Django + DRF + Celery)
 
@@ -51,3 +52,7 @@ This enqueues a Celery task which will import and email (placeholder) a report w
 - This project uses SQLite for simplicity and is configured for local development.
 - Sensitive keys are in `settings.py` only for demo; replace them before sharing publicly.
 - See code for implementation details and comments.
+=======
+# Online_FoodPlaza_API
+Online FoodPlaza API is a Django REST Framework (DRF) based backend application for an e-commerce food ordering platform.
+>>>>>>> e5ba3421895da6e4cf5d8ffd55be3ff1dbff096e
